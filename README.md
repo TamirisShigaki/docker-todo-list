@@ -1,4 +1,10 @@
-# 🚧 README em construção 🚧
+# 🚧 Readme em construção 🚧
+
+## 22 – Projeto Docker-todo-list
+
+## Contexto
+
+Projeto pessoal desenvolvido na Trybe, onde tive que criar uma aplicação full stack, que estava previamente desenvolvida, utilizando comandos CLI `docker`, `dockerfile` e `DockerCompose`
 
 <!-- Olá, Tryber!
 
